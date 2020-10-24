@@ -1,0 +1,37 @@
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.Cache
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+c:\users\nick\documents\visual studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojAssemblyReference.cache
+C:\Users\Nick\Documents\Visual Studio 2017\Projects\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.CoreCompileInputs.cache
+C:\Users\Ravi\Downloads\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+C:\Users\Ravi\Downloads\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+C:\Users\Ravi\Downloads\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+C:\Users\Ravi\Downloads\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+C:\Users\Ravi\Downloads\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+C:\Users\Ravi\Downloads\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+C:\Users\Ravi\Downloads\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojResolveAssemblyReference.cache
+C:\Users\Ravi\Downloads\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+C:\Users\Ravi\Downloads\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+C:\Users\Ravi\Downloads\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.Cache
+C:\Users\Ravi\Downloads\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+C:\Users\Ravi\Downloads\ArduinoCompurerCommunication-1\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
+G:\ETS\swamisamrth\software\calibration\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe
+G:\ETS\swamisamrth\software\calibration\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.pdb
+G:\ETS\swamisamrth\software\calibration\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csprojResolveAssemblyReference.cache
+G:\ETS\swamisamrth\software\calibration\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Form1.resources
+G:\ETS\swamisamrth\software\calibration\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.Properties.Resources.resources
+G:\ETS\swamisamrth\software\calibration\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.csproj.GenerateResource.Cache
+G:\ETS\swamisamrth\software\calibration\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe.manifest
+G:\ETS\swamisamrth\software\calibration\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.application
+G:\ETS\swamisamrth\software\calibration\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.exe
+G:\ETS\swamisamrth\software\calibration\ComputerToArduino\ComputerToArduino\bin\Debug\ComputerToArduino.pdb
+G:\ETS\swamisamrth\software\calibration\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.exe.manifest
+G:\ETS\swamisamrth\software\calibration\ComputerToArduino\ComputerToArduino\obj\Debug\ComputerToArduino.application
